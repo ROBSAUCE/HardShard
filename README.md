@@ -1,7 +1,7 @@
 # Hardshard
 
 ## Overview
-Hardshard is an offensive security tool designed for penetration testers and red team operators to enumerate, analyze, and exploit Elasticsearch clusters. It is a work in progress.
+Hardshard is an offensive security tool designed for penetration testers and red team operators to easily navigate Elasticsearch clusters. It is a work in progress.
 
 ## Usage
 Run the main application:
