@@ -20,3 +20,4 @@ python hardshard.py [options]
 python hardshard.py --host 127.0.0.1 --output json --filter my_index*
 ```
 
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/a9c3166b-3529-4150-9408-b03a380343f0" />
